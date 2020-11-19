@@ -12,3 +12,17 @@ C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Debug\Porjet-C.csproj.Gener
 C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Debug\Porjet-C.csproj.CoreCompileInputs.cache
 C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Debug\Porjet-C.exe
 C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Debug\Porjet-C.pdb
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\bin\Debug\Porjet-C.exe.config
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\bin\Debug\Porjet-C.exe
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\bin\Debug\Porjet-C.pdb
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet-C.csprojAssemblyReference.cache
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\MainWindow.baml
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\MainWindow.g.cs
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\App.g.cs
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet-C_MarkupCompile.cache
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet-C.g.resources
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet_C.Properties.Resources.resources
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet-C.csproj.GenerateResource.cache
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet-C.csproj.CoreCompileInputs.cache
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet-C.exe
+C:\Users\killi\OneDrive\Bureau\Projet-C_sharp\Porjet-C\Porjet-C\obj\Debug\Porjet-C.pdb
