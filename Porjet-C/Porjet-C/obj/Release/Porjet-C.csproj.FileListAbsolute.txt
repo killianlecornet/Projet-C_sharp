@@ -1,0 +1,15 @@
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\bin\Release\Porjet-C.exe.config
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\bin\Release\Porjet-C.exe
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\bin\Release\Porjet-C.pdb
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet-C.csprojAssemblyReference.cache
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\MainWindow.baml
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\MainWindow.g.cs
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\App.g.cs
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet-C_MarkupCompile.cache
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet-C.g.resources
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet_C.Form1.resources
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet_C.Properties.Resources.resources
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet-C.csproj.GenerateResource.cache
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet-C.csproj.CoreCompileInputs.cache
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet-C.exe
+C:\Users\killi\OneDrive\Bureau\Porjet-C\Porjet-C\obj\Release\Porjet-C.pdb
