@@ -11,7 +11,7 @@ Pour modifier le chemin dans le MainWindow.xaml c'est à la ligne 14.
 et dans le MainWindow.xaml.cs c'est à la ligne 66 et 67.
 
 
-Le système de temps marche avec un delay je récupère le temps au début et à la fin de chaque ligne de temps, j enleve les caractères spéciaux puis je transforme le string en int pour faire après une soustraction avec le temps pour obtenir le delay tout cela sa passe dans une boucle.
+Le système de temps marche avec un delai je récupère le temps au début et à la fin de chaque ligne de temps, j'enleve les caractères spéciaux puis je transforme le string en int pour faire après une soustraction avec le temps pour obtenir le delai tout cela sa passe dans une boucle.
 
 Pour lancer la vidéo on doit faire play puis appuyer sur le bouton Sous-titre pour que les deux s'affiche avec le bon temps on ne peut pas faire pause à la video lorsque les sous-titres sont activés.
 
